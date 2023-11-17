@@ -1,3 +1,3 @@
 Reducing Privacy Risks in Online Self-Disclosures with Language Models
 
-The Arxiv link is at (submitting, will update in a day).
+The arXiv link is [here](https://arxiv.org/abs/2311.09538).
